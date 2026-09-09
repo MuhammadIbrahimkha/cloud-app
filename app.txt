@@ -2,5 +2,6 @@ Cloud App
 Version: 1.0
 Envirnment: Development
 
-echo "Login feature" >> app.txt
+echo "Login feature"
+Cloud deployment started
 
